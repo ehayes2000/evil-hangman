@@ -12,12 +12,8 @@ like in a traditional game of hangman. With every guess the user makes, the prog
 of the guessed letter or more words without. Then the program chooses the larger family. Here's an example with a three letter word:
 
 
+![alt text](https://github.com/ehayes2000/evil-hangman/blob/master/hangman-play-through.png)
 
-**Hangman Class**
-
-
-The hangman class contains all of the necissary member functions to play a game of hangman. This includes 
-member functions to load a vector of possible words, 
 
 
 
