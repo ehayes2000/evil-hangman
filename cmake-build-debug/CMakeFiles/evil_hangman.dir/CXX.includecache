@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ehayes/Desktop/evil_hangman - Copy/hangman.cpp
+hangman.h
+/home/ehayes/Desktop/evil_hangman - Copy/hangman.h
+fstream
+-
+iostream
+-
+map
+-
+random
+-
+ctime
+-
+
+/home/ehayes/Desktop/evil_hangman - Copy/hangman.h
+string
+-
+vector
+-
+set
+-
+
+/home/ehayes/Desktop/evil_hangman - Copy/main.cpp
+iostream
+-
+string
+-
+cstdlib
+-
+cctype
+-
+fstream
+-
+hangman.h
+/home/ehayes/Desktop/evil_hangman - Copy/hangman.h
+
